@@ -1,0 +1,1 @@
+exports.IMDB_BASE_URL = 'http://www.imdb.com'
